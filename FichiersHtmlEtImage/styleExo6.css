@@ -1,0 +1,14 @@
+article{
+    position: absolute;
+    background-color: red;
+    margin-top: 100px;
+}
+
+
+
+article p {
+    position: relative;
+    background-color: yellow;
+    left: 150px;
+    right: 100px;
+}

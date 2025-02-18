@@ -1,0 +1,21 @@
+ul li {
+    display: inline-block;
+    color: blue;
+    font-weight: bold;
+    background-color: pink;
+    padding: 20px;
+    margin-left: 30px;
+    text-align: center;
+   
+}
+
+li a {
+    text-decoration: none;
+}
+
+#survol:hover{
+    border-top: 5px solid rgb(71, 153, 102);
+    background-color: rgb(175, 212, 203);
+    padding-top: 15px;
+
+}
